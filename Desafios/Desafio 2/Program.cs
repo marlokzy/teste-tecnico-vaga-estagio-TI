@@ -8,28 +8,32 @@ public class DesafioDois
     public static void Main()
     {
         // input
-        Console.WriteLine("Saiba a sequência de Fibonacci!!!");
-        Console.WriteLine("Digite um número:");
+        Console.WriteLine("Identificador de Fibonacci!!!");
+        Console.WriteLine("Digite um número inteiro:");
 
         int number = Convert.ToInt32(Console.ReadLine());
 
-        int auxiliar = number + number;
+        int auxiliar = 0;
+        int auxiliar_2 = 1;
+        int auxiliar_3 = 0;
 
-        while (number <= auxiliar)
+        while (auxiliar < number)
         {
-            if (auxiliar >= number)
+            if (number < auxiliar_3)
             {
-                Console.WriteLine($"O número {number} pertence a sequência Fibonacci");
-                number += auxiliar;
+                Console.WriteLine($"O número {number} não pertence a sequência Fibonacci!");
+                break;
             }
             else
             {
-                Console.WriteLine($"O número {number} não pertence a sequência Fibonacci");
-                break;
+                int temp = auxiliar + auxiliar_2;
+                Console.Write(auxiliar_2 + " ");
+                auxiliar = auxiliar_2;
+                auxiliar_2 = temp;
             }
-            number += auxiliar;
+            auxiliar_3++;
         }
     }
 }
 
-// EM CONSTRUÇÃO - TENTANDO RESOLVER
+// EM CONSTRUÇÃO - TENTANDO RESOLVER --> (Foi o máximo que consegui fazer :c)
