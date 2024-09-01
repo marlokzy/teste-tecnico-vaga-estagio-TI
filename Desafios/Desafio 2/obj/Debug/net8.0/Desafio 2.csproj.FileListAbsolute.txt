@@ -1,0 +1,14 @@
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.AssemblyInfoInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.AssemblyInfo.cs
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\bin\Debug\net8.0\Desafio 2.exe
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\bin\Debug\net8.0\Desafio 2.deps.json
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\bin\Debug\net8.0\Desafio 2.runtimeconfig.json
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\bin\Debug\net8.0\Desafio 2.dll
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\bin\Debug\net8.0\Desafio 2.pdb
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.dll
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\refint\Desafio 2.dll
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.pdb
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\Desafio 2.genruntimeconfig.cache
+C:\Users\Marlon Rodrigues\Downloads\Etapa técnica - Vaga de estágio\Desafios\Desafio 2\obj\Debug\net8.0\ref\Desafio 2.dll
